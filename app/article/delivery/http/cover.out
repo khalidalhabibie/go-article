@@ -1,0 +1,19 @@
+mode: set
+backend/app/article/delivery/http/article.go:13.46,17.2 1 1
+backend/app/article/delivery/http/article.go:19.44,28.2 4 0
+backend/app/article/delivery/http/create.go:12.46,20.46 3 1
+backend/app/article/delivery/http/create.go:30.2,33.49 2 1
+backend/app/article/delivery/http/create.go:43.2,44.16 2 1
+backend/app/article/delivery/http/create.go:49.2,50.16 2 1
+backend/app/article/delivery/http/create.go:57.2,59.42 2 1
+backend/app/article/delivery/http/create.go:20.46,27.3 3 1
+backend/app/article/delivery/http/create.go:33.49,41.3 4 1
+backend/app/article/delivery/http/create.go:44.16,47.3 1 1
+backend/app/article/delivery/http/create.go:50.16,55.3 2 0
+backend/app/article/delivery/http/index.go:13.45,18.16 3 0
+backend/app/article/delivery/http/index.go:24.2,25.16 2 0
+backend/app/article/delivery/http/index.go:34.2,35.16 2 0
+backend/app/article/delivery/http/index.go:42.2,48.42 2 0
+backend/app/article/delivery/http/index.go:18.16,21.3 1 0
+backend/app/article/delivery/http/index.go:25.16,30.3 2 0
+backend/app/article/delivery/http/index.go:35.16,40.3 2 0

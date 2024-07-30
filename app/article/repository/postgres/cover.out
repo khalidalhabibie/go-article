@@ -1,0 +1,13 @@
+mode: set
+backend/app/article/repository/postgres/article.go:13.42,17.2 1 1
+backend/app/article/repository/postgres/count.go:11.74,18.16 3 1
+backend/app/article/repository/postgres/count.go:24.2,24.19 1 1
+backend/app/article/repository/postgres/count.go:18.16,22.3 3 1
+backend/app/article/repository/postgres/find_all.go:11.87,18.16 3 1
+backend/app/article/repository/postgres/find_all.go:25.2,25.21 1 1
+backend/app/article/repository/postgres/find_all.go:18.16,23.3 3 1
+backend/app/article/repository/postgres/insert.go:9.70,11.15 2 1
+backend/app/article/repository/postgres/insert.go:14.2,15.16 2 1
+backend/app/article/repository/postgres/insert.go:19.2,19.12 1 1
+backend/app/article/repository/postgres/insert.go:11.15,13.3 1 0
+backend/app/article/repository/postgres/insert.go:15.16,18.3 1 0

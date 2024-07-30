@@ -1,0 +1,17 @@
+mode: set
+backend/app/article/repository/redis/get.go:14.78,26.44 2 1
+backend/app/article/repository/redis/get.go:33.2,34.16 2 1
+backend/app/article/repository/redis/get.go:43.2,48.16 3 1
+backend/app/article/repository/redis/get.go:56.2,56.22 1 1
+backend/app/article/repository/redis/get.go:26.44,31.3 3 1
+backend/app/article/repository/redis/get.go:34.16,39.3 3 0
+backend/app/article/repository/redis/get.go:48.16,54.3 3 0
+backend/app/article/repository/redis/set.go:13.84,16.16 2 1
+backend/app/article/repository/redis/set.go:24.2,26.16 2 1
+backend/app/article/repository/redis/set.go:31.2,31.12 1 1
+backend/app/article/repository/redis/set.go:16.16,20.3 2 0
+backend/app/article/repository/redis/set.go:26.16,29.3 2 0
+backend/app/article/repository/redis/article.go:13.45,17.2 1 1
+backend/app/article/repository/redis/flush.go:9.34,11.16 2 1
+backend/app/article/repository/redis/flush.go:20.2,20.12 1 1
+backend/app/article/repository/redis/flush.go:11.16,18.3 3 0

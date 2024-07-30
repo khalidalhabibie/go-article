@@ -1,0 +1,12 @@
+mode: set
+backend/app/article/usecase/article.go:14.19,19.2 1 1
+backend/app/article/usecase/create.go:13.75,19.16 4 1
+backend/app/article/usecase/create.go:29.2,31.22 2 1
+backend/app/article/usecase/create.go:19.16,26.3 4 1
+backend/app/article/usecase/index.go:13.82,22.22 2 1
+backend/app/article/usecase/index.go:27.2,34.16 3 1
+backend/app/article/usecase/index.go:42.2,43.16 2 1
+backend/app/article/usecase/index.go:52.2,63.23 4 0
+backend/app/article/usecase/index.go:22.22,24.3 1 1
+backend/app/article/usecase/index.go:34.16,40.3 3 1
+backend/app/article/usecase/index.go:43.16,50.3 3 1
